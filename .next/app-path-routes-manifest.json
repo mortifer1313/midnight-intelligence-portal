@@ -1,0 +1,13 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/api/bot/[category]/route": "/api/bot/[category]",
+  "/account-report/page": "/account-report",
+  "/device-info-hunter/page": "/device-info-hunter",
+  "/facial-recognition/page": "/facial-recognition",
+  "/flooded/page": "/flooded",
+  "/lpr-cameras/page": "/lpr-cameras",
+  "/page": "/",
+  "/social-media-investigator/page": "/social-media-investigator",
+  "/track-trace/page": "/track-trace",
+  "/web-information-remover/page": "/web-information-remover"
+}
