@@ -1,0 +1,13 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/bot/[category]/route": "app/api/bot/[category]/route.js",
+  "/account-report/page": "app/account-report/page.js",
+  "/device-info-hunter/page": "app/device-info-hunter/page.js",
+  "/facial-recognition/page": "app/facial-recognition/page.js",
+  "/flooded/page": "app/flooded/page.js",
+  "/lpr-cameras/page": "app/lpr-cameras/page.js",
+  "/page": "app/page.js",
+  "/social-media-investigator/page": "app/social-media-investigator/page.js",
+  "/track-trace/page": "app/track-trace/page.js",
+  "/web-information-remover/page": "app/web-information-remover/page.js"
+}
