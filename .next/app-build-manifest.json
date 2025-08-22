@@ -1,0 +1,106 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-2eb758dea75faf50.js",
+      "static/chunks/4bd1b696-366c5a1809e15c71.js",
+      "static/chunks/258-78ce91a0886fc01f.js",
+      "static/chunks/main-app-9354feff63868767.js",
+      "static/chunks/app/_not-found/page-6f15a95c5a6cbbf4.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-2eb758dea75faf50.js",
+      "static/chunks/4bd1b696-366c5a1809e15c71.js",
+      "static/chunks/258-78ce91a0886fc01f.js",
+      "static/chunks/main-app-9354feff63868767.js",
+      "static/css/5f4a5ea8a0d03485.css",
+      "static/chunks/app/layout-f6970368eaee7859.js"
+    ],
+    "/api/bot/[category]/route": [
+      "static/chunks/webpack-2eb758dea75faf50.js",
+      "static/chunks/4bd1b696-366c5a1809e15c71.js",
+      "static/chunks/258-78ce91a0886fc01f.js",
+      "static/chunks/main-app-9354feff63868767.js",
+      "static/chunks/app/api/bot/[category]/route-dd7fdd3cf2cc83f9.js"
+    ],
+    "/account-report/page": [
+      "static/chunks/webpack-2eb758dea75faf50.js",
+      "static/chunks/4bd1b696-366c5a1809e15c71.js",
+      "static/chunks/258-78ce91a0886fc01f.js",
+      "static/chunks/main-app-9354feff63868767.js",
+      "static/chunks/619-ba102abea3e3d0e4.js",
+      "static/chunks/746-02fa707b07f6cf49.js",
+      "static/chunks/app/account-report/page-6aa1dac9311ea6f7.js"
+    ],
+    "/device-info-hunter/page": [
+      "static/chunks/webpack-2eb758dea75faf50.js",
+      "static/chunks/4bd1b696-366c5a1809e15c71.js",
+      "static/chunks/258-78ce91a0886fc01f.js",
+      "static/chunks/main-app-9354feff63868767.js",
+      "static/chunks/619-ba102abea3e3d0e4.js",
+      "static/chunks/746-02fa707b07f6cf49.js",
+      "static/chunks/app/device-info-hunter/page-c07a757ba0fadfde.js"
+    ],
+    "/facial-recognition/page": [
+      "static/chunks/webpack-2eb758dea75faf50.js",
+      "static/chunks/4bd1b696-366c5a1809e15c71.js",
+      "static/chunks/258-78ce91a0886fc01f.js",
+      "static/chunks/main-app-9354feff63868767.js",
+      "static/chunks/619-ba102abea3e3d0e4.js",
+      "static/chunks/746-02fa707b07f6cf49.js",
+      "static/chunks/app/facial-recognition/page-e74c47f1b55e86e9.js"
+    ],
+    "/flooded/page": [
+      "static/chunks/webpack-2eb758dea75faf50.js",
+      "static/chunks/4bd1b696-366c5a1809e15c71.js",
+      "static/chunks/258-78ce91a0886fc01f.js",
+      "static/chunks/main-app-9354feff63868767.js",
+      "static/chunks/619-ba102abea3e3d0e4.js",
+      "static/chunks/746-02fa707b07f6cf49.js",
+      "static/chunks/app/flooded/page-c121039e93cd1608.js"
+    ],
+    "/lpr-cameras/page": [
+      "static/chunks/webpack-2eb758dea75faf50.js",
+      "static/chunks/4bd1b696-366c5a1809e15c71.js",
+      "static/chunks/258-78ce91a0886fc01f.js",
+      "static/chunks/main-app-9354feff63868767.js",
+      "static/chunks/619-ba102abea3e3d0e4.js",
+      "static/chunks/746-02fa707b07f6cf49.js",
+      "static/chunks/app/lpr-cameras/page-09d6deedadd5aab4.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-2eb758dea75faf50.js",
+      "static/chunks/4bd1b696-366c5a1809e15c71.js",
+      "static/chunks/258-78ce91a0886fc01f.js",
+      "static/chunks/main-app-9354feff63868767.js",
+      "static/chunks/619-ba102abea3e3d0e4.js",
+      "static/chunks/app/page-cbbbbc7f09809596.js"
+    ],
+    "/social-media-investigator/page": [
+      "static/chunks/webpack-2eb758dea75faf50.js",
+      "static/chunks/4bd1b696-366c5a1809e15c71.js",
+      "static/chunks/258-78ce91a0886fc01f.js",
+      "static/chunks/main-app-9354feff63868767.js",
+      "static/chunks/619-ba102abea3e3d0e4.js",
+      "static/chunks/746-02fa707b07f6cf49.js",
+      "static/chunks/app/social-media-investigator/page-ce747bd63782bf58.js"
+    ],
+    "/track-trace/page": [
+      "static/chunks/webpack-2eb758dea75faf50.js",
+      "static/chunks/4bd1b696-366c5a1809e15c71.js",
+      "static/chunks/258-78ce91a0886fc01f.js",
+      "static/chunks/main-app-9354feff63868767.js",
+      "static/chunks/619-ba102abea3e3d0e4.js",
+      "static/chunks/746-02fa707b07f6cf49.js",
+      "static/chunks/app/track-trace/page-088f19474340ab25.js"
+    ],
+    "/web-information-remover/page": [
+      "static/chunks/webpack-2eb758dea75faf50.js",
+      "static/chunks/4bd1b696-366c5a1809e15c71.js",
+      "static/chunks/258-78ce91a0886fc01f.js",
+      "static/chunks/main-app-9354feff63868767.js",
+      "static/chunks/619-ba102abea3e3d0e4.js",
+      "static/chunks/746-02fa707b07f6cf49.js",
+      "static/chunks/app/web-information-remover/page-7e90c6eae52d4fc1.js"
+    ]
+  }
+}
